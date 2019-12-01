@@ -1,7 +1,8 @@
 navigation_experimental
 -----------------------
 
-A collection of navigation plugins and tools: Various recovery behaviors,
+This repo is forked from ros-planning/navigation_experimental. 
+It is a collection of navigation plugins and tools: Various recovery behaviors,
 local and global planner plugins for move_base, a teleop filter for
 obstacle avoidance, and a simple control-based move_base replacement.
 
